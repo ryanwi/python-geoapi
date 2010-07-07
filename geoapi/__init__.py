@@ -1,7 +1,7 @@
 """
-The minimalist yet fully featured GeoPlanet API and Python toolset.
+The minimalist GeoApi API and Python toolset.
 
-For building your own applications, look at the `GeoPlanet` class.
+For building your own applications, look at the `GeoApi` class.
 """
 
 from api import *
